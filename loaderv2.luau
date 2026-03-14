@@ -7,7 +7,7 @@ repeat task.wait() until player and player.Character
 
 task.wait(2) -- extra safety wait for map/UI
 
-print("Now fully teleported, running script")
+print("2222")
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xorrfiis/XORFIIAUTOAIMASSISTPC/refs/heads/main/aio.luau"))()
 ]]
