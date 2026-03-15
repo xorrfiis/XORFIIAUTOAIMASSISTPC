@@ -15,7 +15,7 @@ repeat task.wait() until player and player.Character
 
 task.wait(2)
 
-print("Executed!")
+print("1111")
 
 -- run your script
 loadstring(game:HttpGet(url))()
