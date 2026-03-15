@@ -2,3 +2,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xorrfiis/XORFIIAUTOAI
 
 local ReplicatedStorage = game:GetService('ReplicatedStorage')
 ReplicatedStorage.Remotes.Replication.Fighter.SetControls:FireServer("Gamepad")
+print("XORFII")
